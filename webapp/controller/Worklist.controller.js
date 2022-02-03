@@ -21,7 +21,7 @@ sap.ui.define([
          */
         onInit : function () {
             var oViewModel;
-
+            //change2
             // keeps the search state
             this._aTableSearchState = [];
 
